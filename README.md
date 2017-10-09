@@ -4,6 +4,14 @@ A set of webapps ran by chromium for gnome desktop environments.
 
 This repository is nothing more and nothing less than a nice set of app-shortcuts that are executed by chromium (or chrome).
 
+<table align="center">
+<tr>
+<td align="center"><a href="https://github.com/bgeVam/gnomium-webapps/blob/master/webapps/gnomium-maps.desktop">
+  <img src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/master/apps/scalable/maps.svg?sanitize=true" alt="HTML tutorial" style="width:42px;height:42px;border:0;">
+</a><br/>Google Maps</td>
+</tr>
+</table>
+
 ## Installation
 
 NOTE: chromium is required in order to run the webapps.
