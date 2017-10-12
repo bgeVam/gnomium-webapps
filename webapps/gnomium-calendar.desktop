@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Gnomium-Calendar
+GenericName=Calendar
+Comment=Gnomium Google Calendar Webapp
+Exec=chromium-browser --app=https://calendar.google.com
+Terminal=false
+Icon=calendar
+Type=Application
+Categories=Office;

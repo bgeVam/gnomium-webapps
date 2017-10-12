@@ -9,6 +9,9 @@ This repository is nothing more and nothing less than a nice set of app-shortcut
 <td align="center"><a href="https://github.com/bgeVam/gnomium-webapps/blob/master/webapps/gnomium-maps.desktop">
   <img src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/master/apps/scalable/maps.svg?sanitize=true" alt="HTML tutorial" style="width:42px;height:42px;border:0;">
 </a><br/>Google Maps</td>
+<td align="center"><a href="https://github.com/bgeVam/gnomium-webapps/blob/master/webapps/gnomium-calendar.desktop">
+  <img src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/master/apps/scalable/calendar.svg?sanitize=true" alt="HTML tutorial" style="width:42px;height:42px;border:0;">
+</a><br/>Google Calendar</td>
 </tr>
 </table>
 
