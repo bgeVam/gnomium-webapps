@@ -15,6 +15,9 @@ This repository is nothing more and nothing less than a nice set of app-shortcut
 <td align="center"><a href="https://github.com/bgeVam/gnomium-webapps/blob/master/webapps/gnomium-youtube.desktop">
   <img src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/master/apps/scalable/youtube.svg?sanitize=true" alt="HTML tutorial" style="width:42px;height:42px;border:0;">
 </a><br/>Youtube</td>
+<td align="center"><a href="https://github.com/bgeVam/gnomium-webapps/blob/master/webapps/gnomium-netflix.desktop">
+  <img src="https://github.com/bgeVam/gnomium-webapps/blob/master/icons/netflix.svg?sanitize=true" alt="HTML tutorial" style="width:42px;height:42px;border:0;">
+</a><br/>Netflix</td>
 </tr>
 </table>
 
@@ -31,3 +34,14 @@ For installation on ubuntu systems, just copy the .desktop file to /usr/share/ap
 Now the app should be available in the application menu.
 
 For installation of icons, I recommend the [la capitaine icon theme](https://github.com/keeferrourke/la-capitaine-icon-theme) by [keeferrourke](https://github.com/keeferrourke/) as it covers a lot of standard-applications.
+
+Icons that are not part of existing icon sets need to be placed in 
+
+```
+  ~/.local/share/icons/
+```
+
+## Disclaimer
+
+This plugin is not officially commisioned/supported by Netflix. The trademark "Netflix" is registered by "Netflix, Inc."
+The netflix svg image is from [here](https://commons.wikimedia.org/wiki/File%3ANetflix_icon.svg).

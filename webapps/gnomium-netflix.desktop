@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Gnomium-Netflix
+GenericName=Netflix
+Comment=Gnomium Netflix Webapp
+Exec=/usr/bin/google-chrome-stable %U netflix.com -kiosk
+Terminal=false
+Icon=netflix
+Type=Application
+Categories=AudioVideo;
