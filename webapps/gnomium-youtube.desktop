@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Gnomium-Youtube
+GenericName=Youtube
+Comment=Gnomium Youtube Webapp
+Exec=chromium-browser --app=https://youtube.com
+Terminal=false
+Icon=youtube
+Type=Application
+Categories=AudioVideo;
