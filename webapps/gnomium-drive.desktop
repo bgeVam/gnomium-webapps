@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Gnomium-Drive
+GenericName=Drive
+Comment=Gnomium Google Drive Webapp
+Exec=chromium-browser --app=https://drive.google.com
+Terminal=false
+Icon=google-drive
+Type=Application
+Categories=Office;
