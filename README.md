@@ -7,22 +7,25 @@ This repository is nothing more and nothing less than a nice set of app-shortcut
 <table align="center">
 <tr>
 <td align="center"><a href="https://github.com/bgeVam/gnomium-webapps/blob/master/webapps/gnomium-maps.desktop">
-  <img src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/master/apps/scalable/maps.svg?sanitize=true" alt="HTML tutorial" style="width:42px;height:42px;border:0;">
+  <img src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/master/apps/scalable/maps.svg?sanitize=true" style="width:42px;height:42px;border:0;">
 </a><br/>Google Maps</td>
 <td align="center"><a href="https://github.com/bgeVam/gnomium-webapps/blob/master/webapps/gnomium-calendar.desktop">
-  <img src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/master/apps/scalable/calendar.svg?sanitize=true" alt="HTML tutorial" style="width:42px;height:42px;border:0;">
+  <img src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/master/apps/scalable/calendar.svg?sanitize=true" style="width:42px;height:42px;border:0;">
 </a><br/>Google Calendar</td>
 <td align="center"><a href="https://github.com/bgeVam/gnomium-webapps/blob/master/webapps/gnomium-youtube.desktop">
-  <img src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/master/apps/scalable/youtube.svg?sanitize=true" alt="HTML tutorial" style="width:42px;height:42px;border:0;">
+  <img src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/master/apps/scalable/youtube.svg?sanitize=true" style="width:42px;height:42px;border:0;">
 </a><br/>Youtube</td>
 <td align="center"><a href="https://github.com/bgeVam/gnomium-webapps/blob/master/webapps/gnomium-netflix.desktop">
-  <img src="https://github.com/bgeVam/gnomium-webapps/blob/master/icons/netflix.svg?sanitize=true" alt="HTML tutorial" style="width:42px;height:42px;border:0;">
+  <img src="https://github.com/bgeVam/gnomium-webapps/blob/master/icons/netflix.svg?sanitize=true" style="width:42px;height:42px;border:0;">
 </a><br/>Netflix</td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/bgeVam/gnomium-webapps/blob/master/webapps/gnomium-drive.desktop">
-  <img src="https://github.com/keeferrourke/la-capitaine-icon-theme/blob/master/apps/scalable/google-drive.svg?sanitize=true" alt="HTML tutorial" style="width:42px;height:42px;border:0;">
+  <img src="https://github.com/keeferrourke/la-capitaine-icon-theme/blob/master/apps/scalable/google-drive.svg?sanitize=true" style="width:42px;height:42px;border:0;">
 </a><br/>Google Drive</td>
+<td align="center"><a href="https://github.com/bgeVam/gnomium-webapps/blob/master/webapps/gnomium-gmail.desktop">
+  <img src="https://github.com/keeferrourke/la-capitaine-icon-theme/blob/master/apps/scalable/gmail.svg?sanitize=true" style="width:42px;height:42px;border:0;">
+</a><br/>GMail</td>
 </tr>
 </table>
 

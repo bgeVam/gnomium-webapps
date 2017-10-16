@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Gnomium-Gmail
+GenericName=Gmail
+Comment=Gnomium Google Gmail Webapp
+Exec=chromium-browser --app=https://mail.google.com
+Terminal=false
+Icon=gmail
+Type=Application
+Categories=Office;
